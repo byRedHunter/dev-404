@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">404 Not Found | DevChallenges</h1>
 
 <div align="center">
@@ -8,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://byredhunter.github.io/dev-404/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/SyMliJff4okB8gZehsFT">
       Solution
     </a>
     <span> | </span>
@@ -26,7 +24,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://repository-images.githubusercontent.com/352208451/32019280-8f33-11eb-95de-758668d7ea80)
 
 
 ## Contact
